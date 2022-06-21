@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>eyn-yezi</key>
+    <string>eyn-yezi.glif</string>
+    <key>kaf-yezi</key>
+    <string>kaf-yezi.glif</string>
+    <key>yot-yezi</key>
+    <string>yot-yezi.glif</string>
+    <key>zal-yezi</key>
+    <string>zal-yezi.glif</string>
+  </dict>
+</plist>
