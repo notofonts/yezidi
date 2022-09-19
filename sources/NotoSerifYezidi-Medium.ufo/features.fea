@@ -1,1 +1,2 @@
-include(family.fea)
+languagesystem DFLT dflt;
+languagesystem yezi dflt;
