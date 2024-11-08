@@ -18,16 +18,6 @@
         <dimension name="Weight" xvalue="94"/>
       </location>
     </source>
-    <source filename="NotoSerifYezidi-Medium.ufo" name="Noto Serif Yezidi Medium" familyname="Noto Serif Yezidi" stylename="Medium">
-      <location>
-        <dimension name="Weight" xvalue="110"/>
-      </location>
-    </source>
-    <source filename="NotoSerifYezidi-SemiBold.ufo" name="Noto Serif Yezidi SemiBold" familyname="Noto Serif Yezidi" stylename="SemiBold">
-      <location>
-        <dimension name="Weight" xvalue="130"/>
-      </location>
-    </source>
     <source filename="NotoSerifYezidi-Bold.ufo" name="Noto Serif Yezidi Bold" familyname="Noto Serif Yezidi" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="152"/>
